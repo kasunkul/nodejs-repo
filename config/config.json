@@ -1,0 +1,41 @@
+{
+    "development": {
+        "username": "database username here",
+        "password": "database password here",
+        "database": "task_board",
+        "host": "database host here",
+        "dialect": "mysql",
+        "port": 25060,
+        "logging": false,
+        "multipleStatements": true,
+        "dialectOptions": {
+            "multipleStatements": true
+        }
+    },
+    "test": {
+        "username": "database username here",
+        "password": "database password here",
+        "database": "task_board",
+        "host": "database host here",
+        "dialect": "mysql",
+        "port": 25060,
+        "logging": false,
+        "multipleStatements": true,
+        "dialectOptions": {
+            "multipleStatements": true
+        }
+    },
+    "production": {
+        "username": "database username here",
+        "password": "database password here",
+        "database": "task_board",
+        "host": "database host here",
+        "dialect": "mysql",
+        "port": 25060,
+        "logging": false,
+        "multipleStatements": true,
+        "dialectOptions": {
+            "multipleStatements": true
+        }
+    }
+}
